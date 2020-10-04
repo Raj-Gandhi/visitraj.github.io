@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cf920443.chunk.css",
+    "main.js": "/static/js/main.d3842245.chunk.js",
+    "main.js.map": "/static/js/main.d3842245.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.afc22451.js",
+    "runtime-main.js.map": "/static/js/runtime-main.afc22451.js.map",
+    "static/js/2.2a2167a9.chunk.js": "/static/js/2.2a2167a9.chunk.js",
+    "static/js/2.2a2167a9.chunk.js.map": "/static/js/2.2a2167a9.chunk.js.map",
+    "static/css/3.1123fc4f.chunk.css": "/static/css/3.1123fc4f.chunk.css",
+    "static/js/3.732d37c0.chunk.js": "/static/js/3.732d37c0.chunk.js",
+    "static/js/3.732d37c0.chunk.js.map": "/static/js/3.732d37c0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9af9e4f28f5aaf2067d248c99a19fa33.js": "/precache-manifest.9af9e4f28f5aaf2067d248c99a19fa33.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.1123fc4f.chunk.css.map": "/static/css/3.1123fc4f.chunk.css.map",
+    "static/css/main.cf920443.chunk.css.map": "/static/css/main.cf920443.chunk.css.map",
+    "static/js/2.2a2167a9.chunk.js.LICENSE.txt": "/static/js/2.2a2167a9.chunk.js.LICENSE.txt",
+    "static/media/variables.css": "/static/media/handFont3.8f3d822a.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afc22451.js",
+    "static/js/2.2a2167a9.chunk.js",
+    "static/css/main.cf920443.chunk.css",
+    "static/js/main.d3842245.chunk.js"
+  ]
+}
